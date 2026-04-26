@@ -50,14 +50,14 @@ You are encouraged to use **AI tools** for this exam, such as:
 
 <br>
 <div align="center">
-  <img src="images/index-page.png" alt="Index page" width="250" style="border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
+  <img src="images/index-page.png" alt="Index page" width="300" style="border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
 </div>
 <br>
 
 4. Test the frontend/backend by searching student `testuser`, and you should have the following output:
 <br>
 <div align="center">
-  <img src="images/first-test-page.png" alt="Index test page" width="250" style="border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
+  <img src="images/first-test-page.png" alt="Index test page" width="300" style="border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
 </div>
 <br>
 
@@ -122,7 +122,7 @@ Already partially implemented. You need to ensure these work:
 
 <br>
 <div align="center">
-  <img src="images/enrollment-list.png" alt="Enroll list Form" width="300" style="border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
+  <img src="images/enrollment-list.png" alt="Enroll list Form" width="400" style="border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
 </div>
 <br>
 
@@ -130,7 +130,7 @@ Already partially implemented. You need to ensure these work:
 
 <br>
 <div align="center">
-  <img src="images/enrollment-list-result.png" alt="Enroll list Form" width="400" style="border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
+  <img src="images/enrollment-list-result.png" alt="Enroll list Form" width="500" style="border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
 </div>
 <br>
 
