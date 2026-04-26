@@ -93,7 +93,7 @@ Already partially implemented. You need to ensure these work:
 
 <br>
 <div align="center">
-  <img src="images/list-classes.png" alt="List Course Form" width="200" style="border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
+  <img src="images/list-classes.png" alt="List Course Form" width="300" style="border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
 </div>
 <br>
 
@@ -105,7 +105,7 @@ Already partially implemented. You need to ensure these work:
 
 <br>
 <div align="center">
-  <img src="images/enrollment-new.png" alt="Enroll Form" width="200" style="border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
+  <img src="images/enrollment-new.png" alt="Enroll Form" width="300" style="border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
 </div>
 <br>
 
@@ -122,7 +122,7 @@ Already partially implemented. You need to ensure these work:
 
 <br>
 <div align="center">
-  <img src="images/enrollment-list.png" alt="Enroll list Form" width="200" style="border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
+  <img src="images/enrollment-list.png" alt="Enroll list Form" width="300" style="border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
 </div>
 <br>
 
